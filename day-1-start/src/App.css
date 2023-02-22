@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+
+}
+
+.container {
+  max-width: 90%;
+  margin: 1rem auto;
+  background-color: darkslategrey;
+}
+
+h1 {
+  color: blanchedalmond;
+}
+
+p {
+  color: rgb(255, 255, 255);
+  border: 0.5rem dotted black;
+  padding: 1rem;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+  color: white;
+  padding: 0;
+}
+
+li {
+  padding: 1rem;
+}
